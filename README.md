@@ -39,4 +39,6 @@ After that you need to use command:
 
 ```$ allure serve allure-results ```
 
+![Screenshot from 2022-11-02 16-50-01](https://user-images.githubusercontent.com/7016495/199476993-6325e735-826d-4edf-9b2c-47606f77f6b2.png)
+
 
