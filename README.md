@@ -5,6 +5,7 @@
 ## Prerequisites
 - Install Python
 - Install pip
+- pycharm editor
 
 ## Installation Steps:
 - Clone this repo
