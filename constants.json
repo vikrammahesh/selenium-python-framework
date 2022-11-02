@@ -1,0 +1,21 @@
+{
+  "WAIT_TIME" : 4,
+  "person":[{
+    "first_name": "mahesh",
+    "last_name": "vikram",
+    "designation": "QE Architect"
+  }],
+  "practice": [
+    {
+      "name": "practice_name",
+      "address": "test1",
+      "zip": "23456"
+
+    },
+    {
+       "name": "Atena",
+      "address": "test1",
+      "zip": "23456"
+    }
+  ]
+}
